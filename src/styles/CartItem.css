@@ -1,0 +1,22 @@
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.cart-item input {
+  width: 40px;
+  margin: 0 10px;
+}
+.cart-item img {
+    max-width: 100px;
+    height: 140px;
+}
+.cart-item button {
+  background-color: red;
+  color: white;
+  padding: 6px 10px;
+  border: none;
+  margin-top: 10px;
+  cursor: pointer;
+}

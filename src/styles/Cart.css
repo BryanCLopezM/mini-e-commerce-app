@@ -1,0 +1,23 @@
+.total {
+    text-align: end;
+}
+.check {
+  background-color: black;
+  color: white;
+  padding: 6px 10px;
+  border: none;
+  margin-top: 10px;
+  cursor: pointer;
+  margin-right: 1rem;
+}
+.clean {
+  background-color: black;
+  color: white;
+  padding: 6px 10px;
+  border: none;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.poss-btn {
+    text-align: end;
+}
